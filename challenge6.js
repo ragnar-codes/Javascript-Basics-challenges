@@ -6,12 +6,12 @@ function myFunction(num) {
     let str =  num.toString();
     let arr = [];
     for(let i = 0; i < str.length; i++){
-        arr.push(str[i]);
+        arr.push(parseInt(str[i]));
     }
     return arr;
     
 }
 
 
-console.log(myFunction(1800));
+console.log(myFunction(193278));
 
