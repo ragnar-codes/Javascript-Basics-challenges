@@ -13,4 +13,4 @@ function myFunction(arr, num) {
     
 }
 
-console.log(myFunction([1, 2, 3, 4, 5, 6], 4));
+console.log(myFunction([78, 99, 100, 101, 401], 99));
