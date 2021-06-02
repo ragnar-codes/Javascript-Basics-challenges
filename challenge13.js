@@ -12,4 +12,4 @@ function myFunction(num) {
     }
 
 
-console.log(myFunction(2000));
+console.log(myFunction(115));
