@@ -4,12 +4,7 @@
 // If not, return the next higher prime number
 
 function myFunction(num) {
-    if (num % 2 !== 0){
-        return num;
-    }else{
-        return num + 3;
-        }
-    }
+   
 
-
-console.log(myFunction(115));
+}
+console.log(myFunction());
